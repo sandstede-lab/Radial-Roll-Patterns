@@ -1,5 +1,7 @@
 
-This directory contains the auto07p files and two Jupyter notebooks to reproduce the data and the plots presented in figures 6 and 7 of [Bramburger et al.].
+# 
+
+This directory contains the auto07p files and Jupyter notebooks to reproduce the data and the plots presented in figures 6 and 7 of [JJ Bramburger, D Altschuler, CI Avery, T Sangsawang, M Beck, P Carter, and B Sandstede. Localized radial roll patterns in higher space dimensions].
 
 #############################################################
 
