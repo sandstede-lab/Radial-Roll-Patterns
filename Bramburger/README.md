@@ -8,7 +8,7 @@ The notebook [Reproduce-Visualizations.ipynb](Reproduce-Visualizations.ipynb) pl
 
 ## To reproduce auto07p computations
 
-The notebook [Reproduce-Auto-Computations.ipynb](Reproduce-Auto-Computations.ipynb) recreates the data files contained in the folder "data". The notebook requires (i) an auto07p installation and (ii) a python 2.7 installation with matplotlib=1.5.3, jupyter, numpy, and pandas (see below for an installation guide).
+The notebook [Reproduce-Auto-Computations.ipynb](Reproduce-Auto-Computations.ipynb) recreates the data files contained in the folder "data". The notebook requires (i) an auto07p installation and (ii) a python 2.7 installation with matplotlib 1.5.3, jupyter, numpy, and pandas (see below for an installation guide).
 
 ## Installing auto07p
 
