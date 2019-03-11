@@ -1,6 +1,6 @@
 # README
 
-This folder contains the auto07p files and Jupyter notebooks to reproduce the data and plots presented in figures 6 and 7 of [JJ Bramburger, D Altschuler, CI Avery, T Sangsawang, M Beck, P Carter, and B Sandstede: _Localized radial roll patterns in higher space dimensions](http://www.dam.brown.edu/people/sandsted/publications.html).
+This folder contains the auto07p files and Jupyter notebooks to reproduce the data and plots presented in figures 6 and 7 of [JJ Bramburger, D Altschuler, CI Avery, T Sangsawang, M Beck, P Carter, and B Sandstede: Localized radial roll patterns in higher space dimensions](http://www.dam.brown.edu/people/sandsted/publications.html).
 
 ## To reproduce visualizations
 
