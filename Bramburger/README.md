@@ -4,7 +4,7 @@ This folder contains the auto07p files and Jupyter notebooks to reproduce the da
 
 ## To reproduce visualizations
 
-The notebook [Reproduce-Visualizations.ipynb](Reproduce-Visualizations.ipynb) plots the data files contained in the folder/directory "data". The notebook  requires a python installation (python 2.7 and 3.7 will both work) with matplotlib, jupyter, numpy, and pandas.
+The notebook [Reproduce-Visualizations.ipynb](Reproduce-Visualizations.ipynb) plots the data files contained in the folder "data". The notebook  requires a python installation (python 2.7 and 3.7 will both work) with matplotlib, jupyter, numpy, and pandas.
 
 ## To reproduce auto07p computations
 
