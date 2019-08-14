@@ -1,6 +1,6 @@
 # README
 
-This repository contains the auto07p files and Jupyter notebooks to reproduce the data and plots presented in figures 6 and 7 of [JJ Bramburger, D Altschuler, CI Avery, T Sangsawang, M Beck, P Carter, and B Sandstede: Localized radial roll patterns in higher space dimensions](http://www.dam.brown.edu/people/sandsted/publications.html).
+This repository contains the auto07p files and Jupyter notebooks to reproduce the data and plots presented in figures 6 and 7 of [JJ Bramburger, D Altschuler, CI Avery, T Sangsawang, M Beck, P Carter, and B Sandstede: Localized radial roll patterns in higher space dimensions. SIAM Journal on Applied Dynamical Systems 18 (2019) 1420-1453](http://dx.doi.org/10.1137/18M1218728).
 
 ## To reproduce visualizations
 
